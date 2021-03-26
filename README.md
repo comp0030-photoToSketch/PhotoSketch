@@ -1,4 +1,4 @@
-May be an interesting model to look at/benchmark with our own once we complete the implementation.
+#May be an interesting model to look at/benchmark with our own once we complete the implementation - Muna
 
 # Photo-Sketching: Inferring Contour Drawings from Images
 
