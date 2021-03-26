@@ -1,3 +1,5 @@
+May be an interesting model to look at/benchmark with our own once we complete the implementation.
+
 # Photo-Sketching: Inferring Contour Drawings from Images
 
 <p align="center"><img alt="Teaser" src="doc/teaser.jpg"></p>
